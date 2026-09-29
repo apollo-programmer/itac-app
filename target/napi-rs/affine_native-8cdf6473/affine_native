@@ -1,0 +1,28 @@
+{"kind": "interface", "name": "DiskSessionOptions", "js_doc": "", "def": "workspaceId: string\\nsyncFolder: string", "original_name": "DiskSessionOptions"}
+{"kind": "interface", "name": "DiskDocUpdateInput", "js_doc": "", "def": "docId: string\\nbin: Uint8Array\\neditor?: string", "original_name": "DiskDocUpdateInput"}
+{"kind": "interface", "name": "DiskDocClock", "js_doc": "", "def": "docId: string\\ntimestamp: Date\\nreviewRequired?: string\\nexportError?: string", "original_name": "DiskDocClock"}
+{"kind": "interface", "name": "DiskSyncDocUpdateEvent", "js_doc": "", "def": "docId: string\\nbin: Uint8Array\\ntimestamp: Date\\neditor?: string", "original_name": "DiskSyncDocUpdateEvent"}
+{"kind": "interface", "name": "DiskSyncEvent", "js_doc": "", "def": "type: string\\nupdate?: DiskSyncDocUpdateEvent\\ndocId?: string\\ntimestamp?: Date\\norigin?: string\\nmessage?: string", "original_name": "DiskSyncEvent"}
+{"kind": "struct", "name": "DiskSync", "js_doc": "", "def": "", "original_name": "DiskSync"}
+{"kind": "struct", "name": "DiskSyncSubscriber", "js_doc": "", "def": "", "original_name": "DiskSyncSubscriber"}
+{"kind": "impl", "name": "DiskSync", "js_doc": "", "def": " constructor()\\n startSession(sessionId: string, options: DiskSessionOptions): Promise<void>\\n stopSession(sessionId: string): Promise<void>\\n applyLocalUpdate(sessionId: string, update: DiskDocUpdateInput): Promise<DiskDocClock>\\n acknowledgeSourceUpdate(sessionId: string, docId: string, snapshot: Uint8Array): Promise<void>\\n prepareSourceDoc(sessionId: string, docId: string, localSnapshot?: Uint8Array | undefined | null, localRoot?: Uint8Array | undefined | null): Promise<Uint8Array | null>\\n subscribeEvents(sessionId: string, callback: ((err: Error | null, arg: DiskSyncEvent) => void)): Promise<DiskSyncSubscriber>"}
+{"kind": "impl", "name": "DiskSyncSubscriber", "js_doc": "", "def": " unsubscribe(): Promise<void>"}
+{"kind": "impl", "name": "AsyncVerifyChallengeResponse", "js_doc": "", "def": ""}
+{"kind": "fn", "name": "verifyChallengeResponse", "js_doc": "", "def": "function verifyChallengeResponse(response: string, bits: number, resource: string): Promise<boolean>"}
+{"kind": "impl", "name": "AsyncMintChallengeResponse", "js_doc": "", "def": ""}
+{"kind": "fn", "name": "mintChallengeResponse", "js_doc": "", "def": "function mintChallengeResponse(resource: string, bits?: number | undefined | null): Promise<string>"}
+{"kind": "interface", "name": "CreateImportSessionOptions", "js_doc": "", "def": "format: string\\nsource: CreateImportSessionSource\\nbatchLimits?: CreateImportBatchLimits", "original_name": "CreateImportSessionOptions"}
+{"kind": "interface", "name": "CreateImportSessionSource", "js_doc": "", "def": "kind: string\\npath: string", "original_name": "CreateImportSessionSource"}
+{"kind": "interface", "name": "CreateImportBatchLimits", "js_doc": "", "def": "maxDocs?: number\\nmaxBlobs?: number\\nmaxBlobBytes?: number", "original_name": "CreateImportBatchLimits"}
+{"kind": "fn", "name": "createImportSession", "js_doc": "", "def": "function createImportSession(options: CreateImportSessionOptions): string"}
+{"kind": "fn", "name": "nextImportBatch", "js_doc": "", "def": "function nextImportBatch(sessionId: string): string | null"}
+{"kind": "fn", "name": "cancelImportSession", "js_doc": "", "def": "function cancelImportSession(sessionId: string): void"}
+{"kind": "fn", "name": "disposeImportSession", "js_doc": "", "def": "function disposeImportSession(sessionId: string): void"}
+{"kind": "interface", "name": "MermaidRenderOptions", "js_doc": "", "def": "theme?: string\\nfontFamily?: string\\nfontSize?: number", "original_name": "MermaidRenderOptions"}
+{"kind": "interface", "name": "MermaidRenderRequest", "js_doc": "", "def": "code: string\\noptions?: MermaidRenderOptions", "original_name": "MermaidRenderRequest"}
+{"kind": "interface", "name": "MermaidRenderResult", "js_doc": "", "def": "svg: string", "original_name": "MermaidRenderResult"}
+{"kind": "fn", "name": "renderMermaidSvg", "js_doc": "", "def": "function renderMermaidSvg(request: MermaidRenderRequest): MermaidRenderResult"}
+{"kind": "interface", "name": "TypstRenderOptions", "js_doc": "", "def": "fontUrls?: Array<string>\\nfontDirs?: Array<string>", "original_name": "TypstRenderOptions"}
+{"kind": "interface", "name": "TypstRenderRequest", "js_doc": "", "def": "code: string\\noptions?: TypstRenderOptions", "original_name": "TypstRenderRequest"}
+{"kind": "interface", "name": "TypstRenderResult", "js_doc": "", "def": "svg: string", "original_name": "TypstRenderResult"}
+{"kind": "fn", "name": "renderTypstSvg", "js_doc": "", "def": "function renderTypstSvg(request: TypstRenderRequest): TypstRenderResult"}

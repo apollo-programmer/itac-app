@@ -1,0 +1,2 @@
+(globalThis.rspackChunk_affine_monorepo=globalThis.rspackChunk_affine_monorepo||[]).push([[4776],{23804(e,a,r){"use strict";r(22510),Object.create(null)},22510(e){e.exports={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0}}}]);
+//# sourceMappingURL=npm-async-html-parse-stringify.991ea0c0.js.map

@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunk_affine_monorepo=globalThis.rspackChunk_affine_monorepo||[]).push([[9669],{10629(n,a,o){o.d(a,{},{A:function(n){var a=[],o=null,r=function(){for(var r=arguments.length,i=Array(r),l=0;l<r;l++)i[l]=arguments[l];a=i,o||(o=requestAnimationFrame(function(){o=null,n.apply(void 0,a)}))};return r.cancel=function(){o&&(cancelAnimationFrame(o),o=null)},r}})}}]);
+//# sourceMappingURL=npm-async-raf-schd.6693bd5b.js.map

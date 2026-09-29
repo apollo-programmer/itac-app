@@ -1,0 +1,10 @@
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/napi_build-bb8607f415a06d03.d: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/android.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/wasi.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/windows.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libnapi_build-bb8607f415a06d03.rlib: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/android.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/wasi.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/windows.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libnapi_build-bb8607f415a06d03.rmeta: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/android.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/wasi.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/windows.rs
+
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/lib.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/android.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/wasi.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-build-2.3.1/src/windows.rs:

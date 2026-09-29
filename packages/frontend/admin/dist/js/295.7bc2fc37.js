@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunk_affine_monorepo=globalThis.rspackChunk_affine_monorepo||[]).push([[295],{12122(e,a,s){var o=s(74848),l=s(95514),r=s(26994),i=s(22732),n=s(96540);let d=(0,i.F)("text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70"),p=n.forwardRef(({className:e,...a},s)=>(0,o.jsx)(r.b,{ref:s,className:(0,l.cn)(d(),e),...a}));p.displayName=r.b.displayName,s.d(a,{},{J:p})}}]);
+//# sourceMappingURL=295.7bc2fc37.js.map

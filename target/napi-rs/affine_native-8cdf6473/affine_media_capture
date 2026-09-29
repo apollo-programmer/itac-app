@@ -1,0 +1,9 @@
+{"kind": "fn", "name": "decodeAudioSync", "js_doc": "/** Decode audio file into a Float32Array */\n", "def": "function decodeAudioSync(buf: Uint8Array, destSampleRate?: number | undefined | null, filename?: string | undefined | null): Float32Array"}
+{"kind": "impl", "name": "DecodeAudioTask", "js_doc": "", "def": ""}
+{"kind": "fn", "name": "decodeAudio", "js_doc": "", "def": "function decodeAudio(buf: Uint8Array, destSampleRate?: number | undefined | null, filename?: string | undefined | null, signal?: AbortSignal | undefined | null): Promise<Float32Array>"}
+{"kind": "interface", "name": "RecordingStartOptions", "js_doc": "", "def": "appProcessId?: number\\nexcludeProcessIds?: Array<number>\\noutputDir: string\\nformat?: string\\nsampleRate?: number\\nchannels?: number\\nid?: string", "original_name": "RecordingStartOptions"}
+{"kind": "interface", "name": "RecordingSessionMeta", "js_doc": "", "def": "id: string\\nfilepath: string\\nsampleRate: number\\nchannels: number\\nstartedAt: number", "original_name": "RecordingSessionMeta"}
+{"kind": "interface", "name": "RecordingArtifact", "js_doc": "", "def": "id: string\\nfilepath: string\\nsampleRate: number\\nchannels: number\\ndurationMs: number\\nsize: number\\ndegraded: boolean\\noverflowCount: number", "original_name": "RecordingArtifact"}
+{"kind": "fn", "name": "startRecording", "js_doc": "", "def": "function startRecording(opts: RecordingStartOptions): Promise<RecordingSessionMeta>"}
+{"kind": "fn", "name": "stopRecording", "js_doc": "", "def": "function stopRecording(id: string): Promise<RecordingArtifact>"}
+{"kind": "fn", "name": "abortRecording", "js_doc": "", "def": "function abortRecording(id: string): Promise<void>"}

@@ -1,0 +1,10 @@
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/derive_utils-f439a94633ec7160.d: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/error.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/ast.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/parse.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libderive_utils-f439a94633ec7160.rlib: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/error.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/ast.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/parse.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libderive_utils-f439a94633ec7160.rmeta: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/error.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/ast.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/parse.rs
+
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/lib.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/error.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/ast.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_utils-0.15.1/src/parse.rs:

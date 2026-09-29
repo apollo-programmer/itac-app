@@ -1,0 +1,11 @@
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/beef-dfb251fa3b134b1e.d: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libbeef-dfb251fa3b134b1e.rlib: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libbeef-dfb251fa3b134b1e.rmeta: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs
+
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lib.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/traits.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/wide.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/generic.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/beef-0.5.2/src/lean.rs:

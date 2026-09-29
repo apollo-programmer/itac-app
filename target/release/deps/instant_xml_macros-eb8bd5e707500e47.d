@@ -1,0 +1,9 @@
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/instant_xml_macros-eb8bd5e707500e47.d: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/case.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/de.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/meta.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/ser.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/deps/libinstant_xml_macros-eb8bd5e707500e47.so: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/lib.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/case.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/de.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/meta.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/ser.rs
+
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/lib.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/case.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/de.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/meta.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/instant-xml-macros-0.7.1/src/ser.rs:

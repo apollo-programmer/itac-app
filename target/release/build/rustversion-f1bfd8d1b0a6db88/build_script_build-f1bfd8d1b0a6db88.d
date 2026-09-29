@@ -1,0 +1,6 @@
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/build/rustversion-f1bfd8d1b0a6db88/build_script_build-f1bfd8d1b0a6db88.d: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.22/build/build.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.22/build/rustc.rs
+
+/home/nguyenhongtantai/Programming/Project/itac-app/target/release/build/rustversion-f1bfd8d1b0a6db88/build_script_build-f1bfd8d1b0a6db88: /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.22/build/build.rs /home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.22/build/rustc.rs
+
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.22/build/build.rs:
+/home/nguyenhongtantai/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustversion-1.0.22/build/rustc.rs:

@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunk_affine_monorepo=globalThis.rspackChunk_affine_monorepo||[]).push([[1671],{59354(e,o,n){var r=n(96540);let t=r.createContext(e=>{console.error(e)});function a(e,o){let n=r.useContext(t);return r.useCallback((...o)=>{e(...o).catch(e=>n(e))},[...o])}n.d(o,{V:()=>a})}}]);
+//# sourceMappingURL=1671.222be64c.js.map

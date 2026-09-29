@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunk_affine_monorepo=globalThis.rspackChunk_affine_monorepo||[]).push([[1606],{45061(e,n,o){function r(e){if(!e)return"0 B";let n=["B","KB","MB","GB","TB"],o=e,r=0;for(;o>=1024&&r<n.length-1;)o/=1024,r+=1;let t=o>=10?0:1;return`${o.toFixed(t)} ${n[r]}`}o.d(n,{z:()=>r})}}]);
+//# sourceMappingURL=1606.09a29517.js.map

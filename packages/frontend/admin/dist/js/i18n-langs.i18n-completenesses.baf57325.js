@@ -1,0 +1,2 @@
+"use strict";(globalThis.rspackChunk_affine_monorepo=globalThis.rspackChunk_affine_monorepo||[]).push([[6105],{61780(o){o.exports={}}}]);
+//# sourceMappingURL=i18n-langs.i18n-completenesses.baf57325.js.map
